@@ -34,7 +34,6 @@ O arquivo CSV está disponível no repositório para facilitar a execução sem 
 - Pandas  
 - NumPy  
 - Matplotlib  
-- Seaborn  
 - Google Colab  
 
 
